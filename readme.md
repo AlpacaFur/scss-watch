@@ -28,7 +28,7 @@ scss-watch can also be installed on a single project if prefered. The commands c
   "main": "starting_file.js",
   "scripts": {
     "watch": "scss-watch watch",
-    "generate": "scss-watch generate"
+    "build": "scss-watch build"
   }
 }
 ```
