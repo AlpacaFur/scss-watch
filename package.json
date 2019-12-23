@@ -1,6 +1,6 @@
 {
   "name": "scss-watch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A very simple package to watch for scss file changes and regenerate the css files accordingly.",
   "main": "index.js",
   "bin": {
