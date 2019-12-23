@@ -1,14 +1,12 @@
 {
   "name": "scss-watch",
   "version": "1.0.0",
-  "description": "",
+  "description": "A very simple package to watch for scss file changes and regenerate the css files accordingly.",
   "main": "index.js",
   "bin": {
     "scss-watch": "bin/scss-watch"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/alpacafur/scss-watch.git"
@@ -16,7 +14,7 @@
   "author": "alpacafur",
   "license": "",
   "dependencies": {
-    "glob": "^7.1.4",
-    "sass": "^1.22.9"
+    "glob": "^7.1.6",
+    "sass": "^1.24.0"
   }
 }
