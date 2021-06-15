@@ -12,7 +12,7 @@
     "url": "https://github.com/alpacafur/scss-watch.git"
   },
   "author": "alpacafur",
-  "license": "",
+  "license": "MIT",
   "dependencies": {
     "glob": "^7.1.6",
     "sass": "^1.24.0"
